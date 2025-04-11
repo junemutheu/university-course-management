@@ -1,1 +1,1 @@
-# university-course-management
+# university-course-management/
